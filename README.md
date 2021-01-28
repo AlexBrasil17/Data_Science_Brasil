@@ -17,6 +17,7 @@ Aprendiz de Ciência de Dados e aluno do Sigmoidal, atuo na área de logistica e
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/alex-brasil-a6801568/)
+* [Medium] (https://medium.com/@arbs.log)          
 
 
 
