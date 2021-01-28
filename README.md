@@ -5,7 +5,9 @@
 </p>
 
 #  Alex Brasil
-Aprendiz de Ciência de Dados
+
+*Data Science Apprentice*
+
 
 Aprendiz de Ciência de Dados e aluno do Sigmoidal, atuo na área de logistica em empresa de bebidas a mais de 10 anos, tendo iniciado minha carreira como estagiário, hoje coordeno a área de distribuição com uma equipe de aproximadamente 170 pessoas e atendimento a cerca de 1700 cientes diariamente.
 
