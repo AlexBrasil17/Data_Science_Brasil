@@ -4,8 +4,6 @@
   <img src="banner1.png" > 
 </p>
 
-#  Alex Brasil
-
 *Data Science Apprentice*
 
 
