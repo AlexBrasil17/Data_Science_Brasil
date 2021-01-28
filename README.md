@@ -24,7 +24,7 @@ Aprendiz de Ciência de Dados e aluno do Sigmoidal, atuo na área de logistica e
 Veja os tutoriais publicados: 
 
 * **Como Avaliar o movimento das ações da B3:** https://cutt.ly/dj6gjjf
-
+* **Analisando os dados do Airbnb na China:** https://cutt.ly/Lkqy7of
 ---
 
 
