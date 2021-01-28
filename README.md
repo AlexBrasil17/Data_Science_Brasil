@@ -23,8 +23,7 @@ Aprendiz de Ciência de Dados e aluno do Sigmoidal, atuo na área de logistica e
 ## Projetos:
 Veja os tutoriais publicados: 
 
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Como Avaliar o movimento das ações da B3:** https://bityli.com/bztF9
+* **Como Avaliar o movimento das ações da B3:** https://cutt.ly/dj6gjjf
 
 ---
 
